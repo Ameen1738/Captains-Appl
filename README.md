@@ -179,9 +179,13 @@ Potential future features include:
 
 ---
 
+[🚀 Launch Captains-App Prototype](https://captaintest.my.canva.site/captain)
+
+---
+
 ## Author
 
-**Ameen Khan**
+**Ameenur Khan**
 
 BSc (Hons) Software Engineering (Game Development)
 
