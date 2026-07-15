@@ -6,6 +6,18 @@ Captains-App is a football team management application designed to improve commu
 
 The application includes a captain-only administration system, player availability management, team announcements, and a simple, user-friendly interface designed through extensive UX research.
 
+## User Personas
+
+User personas were created to identify the needs, goals, and behaviours of the different users interacting with the Captains-App.
+
+### Player Persona
+
+[View Player Persona PDF](Captains%20Screen%20figma%20Wireframes/User%20Personas/Player%20Persona.pdf)
+
+### Admin Persona
+
+[View Admin Persona PDF](Captains%20Screen%20figma%20Wireframes/User%20Personas/Admin%20Persona.pdf)
+
 
 ---
 ## Figma Prototype Designs
