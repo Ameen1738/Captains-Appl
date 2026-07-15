@@ -6,7 +6,41 @@ Captains-App is a football team management application designed to improve commu
 
 The application includes a captain-only administration system, player availability management, team announcements, and a simple, user-friendly interface designed through extensive UX research.
 
+
 ---
+## Figma Prototype Designs
+
+The application was designed using Figma, creating high-fidelity mobile prototypes to demonstrate the user interface, navigation flow, and user experience.
+
+### Prototype Screens
+
+#### Login Screen
+
+![Login Screen](Captains%20Screen%20figma%20Wireframes/figma-designs/iPhone%2016%20Pro%20-%201.png)
+
+#### Player Dashboard
+
+![Player Dashboard](Captains%20Screen%20figma%20Wireframes/figma-designs/iPhone%2016%20Pro%20-%202.png)
+
+#### Team Management
+
+![Team Management](Captains%20Screen%20figma%20Wireframes/figma-designs/iPhone%2016%20Pro%20-%203.png)
+
+#### Captain Dashboard
+
+![Captain Dashboard](Captains%20Screen%20figma%20Wireframes/figma-designs/iPhone%2016%20Pro%20-%204.png)
+
+#### Player Availability
+
+![Player Availability](Captains%20Screen%20figma%20Wireframes/figma-designs/iPhone%2016%20Pro%20-%205.png)
+
+---
+
+### Complete Figma Designs
+
+All prototype screens can be viewed here:
+
+[View All Figma Prototype Screens](Captains%20Screen%20figma%20Wireframes/figma-designs)
 
 ## Features
 
